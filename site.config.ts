@@ -15,12 +15,12 @@ export default siteConfig({
   author: 'Javeley',
 
   // open graph metadata (optional)
-  description: 'null',
+  description: '兴趣是最好的老师👩',
 
   // social usernames (optional)
   twitter: 'JaveleyQAQ',
   github: 'JaveleyQAQ',
-  linkedin: 'JaveleyQAQ',
+  //linkedin: 'JaveleyQAQ',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
