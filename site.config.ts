@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Javeley Blog',
-  domain: 'https://javeley.notion.site/',
+  domain: 'https://javeley.notion.site/Javeley-',
   author: 'Javeley',
 
   // open graph metadata (optional)
