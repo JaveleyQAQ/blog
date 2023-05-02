@@ -20,6 +20,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'JaveleyQAQ',
   github: 'JaveleyQAQ',
+  zhihu: 'Javeley',
   //linkedin: 'JaveleyQAQ',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -58,7 +59,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'd3bcd054347a4b55ac421664011b32d3'
+      pageId: '306e48b4243247ae8fb2369d8a9fc3a4'
     },
     {
       title: 'Contact',
