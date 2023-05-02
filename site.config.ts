@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://blog-nw7laah76-javeleyqaq.vercel.app/page-icon.png',
+  defaultPageIcon: 'https://github.com/JaveleyQAQ/blog/blob/transitive-bullshit/public/page-icon.png',
   defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
