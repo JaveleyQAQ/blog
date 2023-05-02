@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://raw.githubusercontent.com/transitive-bullshit/nextjs-notion-starter-kit/91980828a52974bc0e0107ad771bb18e63cff2ef/public/page-icon.png',
+  defaultPageIcon: 'https://javeley.vercel.app/page-icon.jpg',
   defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
