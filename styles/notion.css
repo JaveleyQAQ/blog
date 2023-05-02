@@ -202,7 +202,7 @@
 .notion-page-cover-wrapper,
 .notion-page-cover-wrapper span,
 .notion-page-cover-wrapper img {
-  max-width: 1400px !important;
+  max-width: 1500px !important;
   border-radius: 24px;
 }
 
@@ -218,7 +218,7 @@
   cursor: grabbing;
 }
 
-@media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1500px) {
   .notion-page-cover-wrapper,
   .notion-page-cover-wrapper span,
   .notion-page-cover-wrapper img {
