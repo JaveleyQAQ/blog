@@ -12,21 +12,21 @@ export default siteConfig({
   // basic site info (required)
   name: 'Javeley Blog',
   domain: 'https://javeley.notion.site/Javeley-95c0ae7dd8424c2f9472749ad4eb6649',
-  author: 'Travis Fischer',
+  author: 'Javeley',
 
   // open graph metadata (optional)
   description: 'Personal site of Travis Fischer aka Transitive Bullshit',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'JaveleyQAQ',
+  github: 'JaveleyQAQ',
+  linkedin: 'JaveleyQAQ',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
+  defaultPageIcon: 'null',
   defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
@@ -49,7 +49,7 @@ export default siteConfig({
   pageUrlOverrides: null,
 
   pageUrlAdditions: {
-    '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
+    '/blog': '95c0ae7dd8424c2f9472749ad4eb6649'
   },
 
   // whether to use the default notion navigation style or a custom one with links to
@@ -58,11 +58,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
+      pageId: 'd3bcd054347a4b55ac421664011b32d3'
     },
     {
       title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+      pageId: '7a34404d79a142d494cfae570c958645'
     }
   ]
 })
