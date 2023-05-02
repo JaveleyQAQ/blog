@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://javeley.notion.site/image/https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7a88bbe-e3cd-44d2-8ad7-6e6f39fa8b46/page-icon.jpg?id=a7b2dca1-78e3-4ae5-bd7f-ecd4284fdb25&table=block&spaceId=a60c8573-7dc4-41f6-9d1e-aeeb67d670d8&width=640&userId=&cache=v2',
+  defaultPageIcon: 'https://javeley.vercel.app/page-icon.png',
   defaultPageCover: 'https://javeley.vercel.app/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
