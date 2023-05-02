@@ -11,11 +11,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Javeley Blog',
-  domain: 'https://javeley.notion.site/Javeley-95c0ae7dd8424c2f9472749ad4eb6649',
+  domain: 'https://javeley.notion.site/',
   author: 'Javeley',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'null',
 
   // social usernames (optional)
   twitter: 'JaveleyQAQ',
