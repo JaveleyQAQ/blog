@@ -32,7 +32,7 @@ export const PageAside: React.FC<{
       <HomeButton />
       </>
     )
-  }
+  
   }
 
   return <PageSocial />
