@@ -50,7 +50,9 @@
     pageUrlOverrides: null,
 
     pageUrlAdditions: {
-      '/blog': '95c0ae7dd8424c2f9472749ad4eb6649'
+      '/blog': '95c0ae7dd8424c2f9472749ad4eb6649',
+      '/tools-library':'384cdbc0965c4646b9ec47f977b52d02',
+      '/library': '384cdbc0965c4646b9ec47f977b52d02'
     },
 
     // whether to use the default notion navigation style or a custom one with links to
