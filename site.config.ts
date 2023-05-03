@@ -27,8 +27,8 @@
 
     // default notion icon and cover images for site-wide consistency (optional)
     // page-specific values will override these site-wide defaults
-    defaultPageIcon: 'https://raw.githubusercontent.com/JaveleyQAQ/blog/transitive-bullshit/public/page-icon.jpg',
-    defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+    defaultPageIcon: 'https://cdn.jsdelivr.net/gh/Javeleyqaq/images/2023/05/202305040236260.png',
+    defaultPageCover: 'https://cdn.jsdelivr.net/gh/Javeleyqaq/images/2023/05/202305040235969.png',
     defaultPageCoverPosition: 0.5,
 
     // whether or not to enable support for LQIP preview images (optional)
