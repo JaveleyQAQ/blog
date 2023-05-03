@@ -11,7 +11,7 @@
 
     // basic site info (required)
     name: 'Javeley Blog',
-    domain: 'https://javeley.vercel.app/',
+    domain: 'https://javeley.notion.site/',
     author: 'Javeley',
 
     // open graph metadata (optional)
